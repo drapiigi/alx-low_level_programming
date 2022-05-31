@@ -1,8 +1,5 @@
 ### C PROGRAMMING PROJECT FILE I/O
 
-## Tests :heavy_check_mark:
-
-## Header File :file_folder:
 
 * [holberton.h](./holberton.h): Header file containing prototypes for all functions
 written in the project.
