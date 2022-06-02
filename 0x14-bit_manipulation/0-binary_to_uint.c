@@ -2,8 +2,8 @@
 
 unsigned int binary_to_uint(const char *b)
 {
-    int total = 0;
-    int multiplier = 1;
+    unsigned int total = 0;
+    unsigned int multiplier = 1;
     int index = strlen(b)-1;
     if(b == NULL)//if b is null
     {             
