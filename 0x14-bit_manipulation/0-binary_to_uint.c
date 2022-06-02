@@ -12,7 +12,7 @@ unsigned int binary_to_uint(const char *b)
 
     for (index;index >=0;index--)
     {
-        if (b[index] !='1' || b[index]!='0')   //if b is neither 0 or 1 
+        if (b[index] !='1' && b[index]!='0')   //if b is neither 0 or 1 
         {
             return (0);
         }
